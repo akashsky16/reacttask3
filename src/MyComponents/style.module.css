@@ -1,0 +1,22 @@
+*{
+    background-color: yellow;
+}
+.contentBox{
+    border: 2px solid purple;
+    border-radius: 15px;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.btn{
+    margin-top: 30px;
+    margin-left: 48%;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: rgb(115, 115, 243);
+}
